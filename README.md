@@ -1,5 +1,5 @@
 #**SOICT Hackathon 2024 - Track Traffic Vehicle Detection**
-
+---
 **Chạy docker Co-DETR**
 - Pull docker contrainer về từ docker-hub
 docker pull anhthuy/co-detr:tagname
